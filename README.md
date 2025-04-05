@@ -4,7 +4,7 @@
 
 
 ---
-
+                                                                                                                                                                                                                                                                                                           
 # 📱 **Documentación de TIGO RP** 🌆
 
 > Bienvenido a **TIGO RP**, tu proveedor de telefonía de confianza dentro del mundo del roleplay. Aquí te explicamos todo lo que necesitas saber para sacarle el máximo provecho a tu celular en la ciudad. 📶💙
@@ -62,9 +62,9 @@ Activa tus datos para navegar en apps del servidor, como GPS, Twitter, etc.
 
 | Plan 📦         | Llamadas 📞 | SMS 💬 | Datos 🌐 | Precio 💵 |
 |----------------|-------------|--------|----------|-----------|
-| Básico         | 30 min      | 50     | 500MB    | $250      |
-| Avanzado       | 100 min     | 200    | 2GB      | $500      |
-| Premium 💎     | Ilimitado   | Ilimitado | 5GB   | $1000     |
+| Básico         | 30 min      | 50     | 500MB    | $25.000      |
+| Avanzado       | 100 min     | 200    | 2GB      | $50.000   |
+| Premium 💎     | Ilimitado   | Ilimitado | 5GB   | $100.000     |
 
 Adquiere tu plan con el NPC de TIGO o en la tienda online del servidor. 🛒📲
 
